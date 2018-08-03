@@ -1,0 +1,506 @@
+@media (max-width:1440px){
+	.tg-bannercontent{border-width: 70px;}
+}
+@media (max-width:1360px){
+	.tg-bannercontent {border-width: 70px 0;}
+}
+@media (max-width:1199px){
+	.tg-logo {width: 200px;}
+	.tg-navigation > ul > li {padding: 5px 7px;}
+	.tg-guest {
+		margin: 0 0 0 10px;
+		padding: 0 0 0 20px;
+	}
+	.tg-homebanner .tg-bannerbg img {
+		height: 901px;
+		width: auto;
+		max-width: none;
+	}
+	.tg-bannerimg {
+		width: 45%;
+		margin: -15px 0 0 0;
+	}
+	.tg-bannerimg img{max-width: none;}
+	.tg-searchfields {
+		width: 55%;
+		padding: 50px 20px;
+	}
+	.tg-innerbanner .tg-jobhead .tg-priceperhour,
+	.tg-jobhead h1 {
+		font-size: 30px;
+		line-height: 27px;
+	}
+	.tg-jobhead h1{padding: 0 170px 0 0;}
+
+	.tg-innerbanner .tg-jobhead .tg-priceperhour em {
+		font-size: 16px;
+		line-height: 16px;
+	}
+	.tg-detailbox{
+		width: 100%;
+		border: 0 !important;
+	}
+	.tg-detailbox + .tg-detailbox{border-top: 1px solid #ddd !important;}
+	.tg-filters {
+		width: 79%;
+		margin: -7px 0;
+	}
+	.tg-filters .tg-btnfilter {margin:7px;}
+	.tg-detailpage .tg-priceperhour {
+		font-size: 20px;
+		line-height: 20px;
+	}
+	.tg-detailpage .tg-priceperhour em {
+		font-size: 15px;
+		line-height: 15px;
+	}
+	.tg-tuitiondashboard .tg-jobhead {padding: 0;}
+	.tg-pagehead .tg-jobhead h2 {
+		font-size: 30px;
+		line-height: 30px;
+	}
+	.tg-btnaddtutor{
+		width: 100%;
+		margin: 0 0 30px;
+	}
+	.tg-addtutortolist form fieldset .form-control {width: 386px;}
+	.tg-formtheme fieldset .tg-addinputfield .tg-btn {padding: 0;}
+	.tg-formtheme fieldset .tg-note{width: 100%;}
+	.tg-postajob img{display: none;}
+	.tg-formtheme fieldset > label{
+		width: 100%;
+		padding: 0 0 20px;
+	}
+	.tg-datefield{
+		width: 100%;
+		padding: 0;
+	}
+	.tg-formtheme fieldset .tg-checkbox{
+		width: 100%;
+		padding: 0;
+		margin: 0 0 30px;
+	}
+	.tg-fileupload.tg-uploaddp label {height: 208px;}
+	.tg-fileupload label .tg-filetype{margin:0 auto 10px;}
+	.tg-fileupload label > span{margin: 0 0 10px;}
+	.tg-dashboarddepartment a{padding: 52px 15px;}
+	.tg-pkgexpireyandcounter .tg-pkgexpirey {padding: 20px;}
+	.tg-countdown span.countDiv {width: 11px;}
+	.tg-formtheme fieldset .tg-pkgplan .tg-btn{padding: 0 30px;}
+	.tg-pkgfoot .tg-btn{margin: 0 0 30px;}
+	.tg-alertmessage span {
+		width: 80%;
+	    padding: 5px 0 0;
+	}
+	.tg-messages li{padding: 16px 20px 16px 30px;}
+	.tg-messages li span {width: 45%;}
+	.tg-favoritesadded span {padding: 11px 0;}
+}
+@media (max-width:991px){
+	.tg-sectionhead h2 {
+		font-size: 32px;
+		line-height: 46px;
+	}
+	.tg-feature h3 {
+		font-size: 22px;
+		line-height: 17px;
+	}
+	.tg-header {padding: 30px 15px 15px;}
+	.tg-logo{
+		float: none;
+		margin: 0 auto;
+		display: block;
+	}
+	.tg-logo a{display: block;}
+	.tg-navigationarea{
+		width: 100%;
+		padding: 15px 0 0;
+		text-align: center;
+	}
+	.tg-nav{text-align: left;}
+	.tg-dropdownbox{right:0;}
+	.tg-bannercontent{padding: 77px 0 0;}
+	.tg-bannercontent .tg-formsearch{height: auto;}
+	.tg-searchfields {
+		width: 100%;
+		padding: 30px;
+	}
+	.tg-tutor {
+		width: 100%;
+		padding: 30px 0;
+		border-bottom: 1px solid #ddd;
+	}
+	.tg-tutor:nth-child(odd){padding-right: 0;}
+	.tg-tutor:nth-child(even){padding-left: 0;}
+	.tg-trustedbymany{padding: 60px 0 0;}
+	.tg-infobox .tg-fcol{width: 50%;}
+	.tg-infobox .tg-fcol:nth-child(2){border: 0;}
+	.tg-infobox .tg-fcol:first-child{
+		width: 80%;
+		clear: both;
+		float: none;
+		height: auto;
+		min-height: auto;
+		overflow: hidden;
+		margin: 0 auto 30px;
+	}
+	.tg-quicklinks .tg-fcol ul li{width: 100%;}
+	.tg-footernav{width: 100%;}
+	.tg-copyright{
+		width: 100%;
+		text-align: center;
+		padding: 20px 0 0;
+	}
+	.tg-footernav ul{text-align: center;}
+	.tg-footernav ul li{
+		float: none;
+		display: inline-block;
+		vertical-align: top;
+	}
+	.tg-innerbanner {margin: 133px 0 0;}
+	.tg-postcontent {padding: 20px 0 0 38px;}
+	.tg-postcontent:before {left: 17px;}
+	.tg-postsingle .tg-postcontent blockquote {padding: 80px 0;}
+	.tg-postsingle .tg-postcontent blockquote q {
+		font-size: 20px;
+		line-height: 25px;
+	}
+	.tg-commenter {padding: 20px 0;}
+	.tg-detailpage .tg-jobhead {padding: 0 0 36px;}
+	.tg-jobhead h1 {padding: 0 140px 0 0;}
+	.tg-innerbanner .tg-jobhead .tg-priceperhour,
+	.tg-jobhead h1 {
+		font-size: 26px;
+		line-height: 23px;
+	}
+	.tg-filters {
+		clear: both;
+		width: auto;
+		float: none;
+		margin: 0 -7px;
+		overflow: hidden;
+	}
+	.tg-jobhead .tg-priceperhour{
+		display: block;
+		position: static;
+		padding: 0 0 10px;
+	}
+	.tg-job{
+		border: 0;
+		padding: 30px 0;
+	}
+	.tg-tags,
+	.tg-metadata{ width: 100%;}
+	.tg-tags{padding: 0 0 10px;}
+	.tg-tutor .tg-priceperhour{
+		text-align: left;
+		font-size: 20px;
+		line-height: 20px;
+	}
+	.tg-tutor .tg-priceperhour em {
+		display: inline-block;
+		vertical-align: middle;
+	}
+	.tg-pagehead .tg-jobhead h2 {
+		font-size: 25px;
+		line-height: 25px;
+	}
+	.tg-addtutortolist form fieldset .form-control{
+		width: 100%;
+		margin: 0 0 20px;
+	}
+	.tg-addtutortolist form fieldset .tg-btn{width: 100%;}
+	.tg-postajob .tg-btn{
+		width: 100%;
+		margin: 0 0 30px;
+	}
+	.tg-postjobcontent{
+		width: 100%;
+		float: left;
+	}
+	.tg-experiencetitle h4{
+		font-size: 15px;
+		line-height: 17px;
+	}
+	.tg-videos {
+		width: 100%;
+		float: left;
+		margin: 0;
+	}
+	.tg-videos li{
+		width: 100%;
+		padding: 15px 0;
+	}
+	.tg-fileupload label{height: 220px;}
+	.tg-galleryimg{width: 25%;}
+	.tg-dashboarddepartment{width: 100%;}
+	.tg-expireytimecounter,
+	.tg-pkgexpireyandcounter .tg-pkgexpirey{width: 100%;}
+	.tg-navpackageplans{margin: -15px 0;}
+	.tg-navpackageplans li{
+		width: 100%;
+		padding: 15px 0;
+	}
+	.tg-alertmessage i {
+		width: 55px;
+		height: 55px;
+		line-height: 55px;
+	}
+	.tg-alertmessage span {width: 70%;}
+	.tg-dashboard.tg-tutordashboard .tg-ratingbox{margin: 0 0 30px;}
+	.tg-tutordashboard .tg-commenter{padding: 20px;}
+}
+@media (max-width:767px){
+	.tg-logo {float: left;}
+	.tg-navigationarea {
+		width: auto;
+		padding: 5px 0;
+	}
+	.tg-navigation{
+		top: 55px;
+		right: 0;
+		margin: 0;
+		border: 0;
+		padding: 0;
+		z-index: 99;
+		background: #fff;
+		position: absolute;
+	}
+	.tg-navigation > ul > li{width: 100%;}
+	.tg-navigation > ul > li > a{padding: 4px 0;}
+	.tg-dropdownmenu{
+		opacity: 1;
+		width: 100%;
+		display: none;
+		overflow: hidden;
+		position: static;
+		visibility: visible;
+		border-top: 1px solid #ddd;
+		border-bottom: 1px solid #ddd;
+	}
+	.tg-dropdowarrow{display: block;}
+	.tg-features{margin: -15px 0;}
+	.tg-feature{padding: 15px 0;}
+	.tg-workstudent{width: 100%;}
+	.tg-contactinfo h2,
+	.tg-howitsworks .tg-contentbox h2 {
+		font-size: 20px;
+		line-height: 20px;
+		margin: 0 0 15px;
+	}
+	.tg-contactmapinfo{display: block;}
+	.tg-postsingle{padding: 0 0 60px;}
+	.tg-detailpage{
+		margin: 0;
+		padding: 0;
+	}
+	.tg-dashboard .tg-pagehead,
+	.tg-detailpage .tg-jobhead{display: none;}
+	.tg-innerbanner .tg-pagehead,
+	.tg-innerbanner .tg-jobhead{
+		padding: 0;
+		display: block;
+	}
+	.tg-sidebar{padding: 60px 0 0;}
+	.tg-pagetitle h1 {
+		font-size: 25px;
+		line-height: 25px;
+	}
+	.tg-pagehead .tg-jobhead h2,
+	.tg-pagehead .tg-subjects{text-align: left;}
+	.tg-dashboard {margin: 0;}
+	.tg-fileupload.tg-uploaddp label {height: 250px;}
+	.tg-navpackageplans{margin: 0 -15px;}
+	.tg-navpackageplans li {
+	    width: 33.33%;
+	    padding: 0 15px;
+	}
+}
+@media (max-width:720px){
+	.tg-guest,
+	.tg-loginsinguplinks{position:static;}
+	.tg-guest:before {display:none;}
+	.tg-dropdown .tg-dropdownbox{width:100%;}
+}
+@media (max-width:640px){}
+@media (max-width:567px){
+	.tg-fullwidth{width: 100%;}
+	.tg-navpackageplans{margin:-15px 0;}
+	.tg-navpackageplans li {
+	    width: 100%;
+	    padding:15px 0;
+	}
+}
+@media (max-width:480px){
+	.tg-sectionhead h2 {
+		font-size: 18px;
+		line-height: 30px;
+	}
+	.tg-dropdownbox{top: 150px;}
+	.tg-dropdown.open .tg-dropdownbox {top: 110px;}
+	.tg-login .tg-admin .tg-user{position:static;}
+	.tg-dropdown .tg-dropdownbox[aria-labelledby="tg-usermenu"]{right:0;}
+	.tg-dropdown.open .tg-dropdownbox[aria-labelledby="tg-usermenu"] {top: 116px;}
+	body.tg-login .tg-admin {margin: 0 0 0 10px;}
+	.tg-feature h3 {
+		font-size: 18px;
+		line-height: 21px;
+		margin: 0 0 20px;
+	}
+	.tg-logo {
+		float: none;
+		margin: 0 auto 16px;
+	}
+	.tg-navigation {top: 117px;}
+	.tg-navigationarea{width: 100%;}
+	.tg-job {padding: 15px;}
+	.tg-jobhead h3 {
+		font-size: 16px;
+		line-height: 19px;
+	}
+	.tg-tutor .tg-jobhead {padding: 0 0 20px;}
+	.tg-priceperhour{
+		display: block;
+		position: static;
+		padding: 0 0 15px;
+	}
+	.tg-loginbanner .tg-box {padding: 15px;}
+	.tg-loginbanner .tg-box h2 {
+		margin: 0 0 15px;
+		font-size: 20px;
+		line-height: 16px;
+	}
+	.tg-loginbanner .tg-box img {display: none;}
+	.tg-tutordp {
+		width: 100%;
+		float: left;
+		margin: 0 0 20px;
+	}
+	.tg-innerbannercontent .tg-tutordp{
+		width: auto;
+		margin: 0 20px 0 0;
+	}
+	.tg-innerbannercontent .tg-tutorinfo{
+		width: auto;
+		float: none;
+		overflow: hidden;
+	}
+	.tg-tutorinfo {
+		width: 100%;
+		float: left;
+	}
+	.tg-tutor .tg-priceperhour{text-align: left;}
+	.tg-tutor .tg-priceperhour em{display: inline-block;}
+	.tg-counter{
+		width: 100%;
+		padding: 15px 0;
+		border: 0 !important;
+	}
+	.tg-postcontent {padding: 20px 0 0 30px;}
+	.tg-postcontent:before {left: 12px;}
+	.tg-posttitle h3 {
+		font-size: 17px;
+		line-height: 20px;
+	}
+	.tg-infobox .tg-fcol,
+	.tg-infobox .tg-fcol:first-child,
+	.tg-quicklinks .tg-fcol{
+		width: 100%;
+		height: auto;
+		padding: 15px;
+		min-height: none;
+		border: 0 !important;
+	}
+	.tg-quicklinks .tg-fcol ul li{width: 50%;}
+	.tg-errorimg {
+		margin: 0;
+		padding: 0 15px 80px;
+	}
+	.tg-errorimg img{
+		width: 100%;
+		height: auto;
+	}
+	.tg-errorcontent h2 {
+		margin: 0 0 20px;
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.tg-404errorsearch {padding: 25px 15px;}
+	.tg-404errorsearch span{
+		width: 100%;
+		padding: 0 0 15px;
+	}
+	.tg-404errorsearch .form-group{
+		width: 100%;
+		float: left;
+	}
+	.tg-jobhead h1 {padding: 0;}
+	.tg-pagehead .tg-jobhead h2 {
+		font-size: 20px;
+		line-height: 20px;
+	}
+	.tg-btnadd,
+	.tg-btnedit {
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+	}
+	.tg-btnadd i {font-size: 18px;}
+	.tg-signinoption li{width:100%;}
+	.tg-signinoption li a{text-align:left;}
+}
+@media (max-width:479px){
+	.tg-brands figure{width: 100%;}
+	.tg-authorimg,
+	.tg-commenterimg {
+		width: 100%;
+		margin: 0 0 20px;
+	}
+	.tg-authorimg img{
+		width: 100%;
+		height: auto;
+	}
+	.tg-commenterinfo,
+	.tg-authorcontent{
+		width: 100%;
+		float: left;
+	}
+	.tg-averagerating {
+		width: 100%;
+		padding: 0 0 30px;
+	}
+	.tg-userskill{
+		width: 100%;
+		float: left;
+		padding: 0;
+	}
+	.tg-innerbannercontent .tg-tutordp {
+		width: 120px;
+		float: none;
+		display: block;
+		margin: 0 auto 60px;
+	}
+	.tg-innerbannercontent .tg-tutorinfo {
+		width: 100%;
+		float: left;
+	}
+	.tg-addinputfield .form-control,
+	.tg-addinputfield .tg-select{
+		width: 100%;
+		margin: 0 0 20px;
+	}
+	.tg-formtheme fieldset .tg-addinputfield .tg-btn{width: 100%;}
+	.tg-formtheme > h3{
+		width: 100%;
+		margin: 0 0 30px;
+	}
+	.tg-tg-filterselect,
+	.tg-tg-filterselect select{width: 100%;}
+	.tg-alertmessage span {width: 60%;}
+	.tg-alertmessage i {
+	    height: 90px;
+	    line-height: 90px;
+	}
+	.tg-messages li span {width: 20%;}
+}
+@media (max-width:320px){}
